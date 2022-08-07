@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="logotipo do CSS"  />
 </div>
 
-### Tópicos 
+### Tópicos
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
@@ -28,21 +28,19 @@
 
 :small_blue_diamond: [Desenvolvedores/Contribuintes](#desenvolvedorescontribuintes-octocat)
 
-
-## Descrição do projeto 
+## Descrição do projeto
 
 <p align="justify">
-  Este projeto foi desenvolvido com o curso de Flexbox - posicione elementos na tela para ser montado um site do alurinha com alguns cursos, vídeo e lista de cursos com um rodapé com alguns informações
+  Este projeto foi desenvolvido com o curso de Flexbox - posicione elementos na tela para ser montado um site do alurinha com alguns cursos, vídeo e lista de cursos com um rodapé com algumas informações.
 </p>
 
 ## Deploy da Aplicação :dash:
 
 > Link do deploy da aplicação: https://curso-flexbox-alura-kleytoncristovao.vercel.app/
 
-
 ## Como rodar a aplicação :arrow_forward:
 
-No terminal, clone o projeto: 
+No terminal, clone o projeto:
 
 ```
 git clone https://github.com/kleytoncristovao/curso-flexbox-alura.git
@@ -52,10 +50,8 @@ git clone https://github.com/kleytoncristovao/curso-flexbox-alura.git
 
 Pode ser usado por uma empresa para a divulgação dos seus cursos para a venda com um site para ser acessado de qualquer dispositivo.
 
-
 ## Desenvolvedores/Contribuintes :octocat:
 
-[<img src="https://github.com/kleytoncristovao.png" width=115><br><sub>Kleyton Cristovão</sub>](https://github.com/kleytoncristovao) 
-
+[<img src="https://github.com/kleytoncristovao.png" width=115><br><sub>Kleyton Cristovão</sub>](https://github.com/kleytoncristovao)
 
 <p align="center"> Copyright :copyright: 2022 - Flexbox - posicione elementos na tela</p>
