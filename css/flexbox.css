@@ -51,6 +51,9 @@
     flex-shrink: 2;
 }
 
+.videoSobre-button {
+    margin-left: 1rem;
+}
 
 .rodapePrincipal-patrocinadores-list {
     align-items: center;
@@ -68,12 +71,14 @@
 
 .rodapePrincipal-contatoForm {
     width: 25%;
+    padding: 1rem;
+    background-color: yellowgreen;
 }
 
 .rodapePrincipal-contatoForm-fieldset {
     display: flex;
+    background-color: brown;
 }
-
 
 @media (max-width: 768px) {
     
@@ -97,11 +102,24 @@
 }
 
 .conteudoPrincipal-cursos-link {
+    margin-bottom: 1%;
     width: 100%;
+}
+
+.conteudoPrincipal-cursos-link:nth-child(4n) {
+    margin-right: 1%;
+}
+
+.conteudoPrincipal-cursos-link:nth-child(4n+1) {
+    margin-left: 1%;
 }
 
 .rodapePrincipal-navMap-list{
     height: auto;
+}
+
+.videoSobre-button {
+    margin-left: 0;
 }
 
 .rodapePrincipal-patrocinadores .container {

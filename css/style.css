@@ -4,8 +4,8 @@ body {
 }
 
 .container {
-	width: 94%;
 	margin: 0 auto;
+	width: 94%;
 }
 
 .cabecalhoPrincipal {
@@ -14,60 +14,59 @@ body {
 }
 
 .cabecalhoPrincipal-titulo {
-	font-weight: bold;
 	font-size: 2em;
+	font-weight: bold;
 	margin-bottom: 20px;
 }
 
 .cabecalhoPrincipal-titulo a {
-	text-decoration: none;
 	color: inherit;
+	text-decoration: none;
 }
 
 .cabecalhoPrincipal-nav-link {
+	background-color: #FFF;
+	border-bottom: 1px solid #9799A6;
+	color: #9799A6;
+	display: block;
 	padding: 10px;
 	margin-bottom: 10px;
-	color: #9799A6;
-	background-color: #FFF;
 	text-decoration: none;
 	transition: .5s;
-	display: block;
-
-	border-bottom: 1px solid #9799A6;
 }
 
 .conteudoPrincipal {
-	margin-top: 20px;
 	margin-bottom: 20px;
+	margin-top: 20px;
 }
 
 .subtitulo {
-	font-weight: bold;
 	font-size: 32px;
+	font-weight: bold;
 	margin-bottom: 10px;
 	text-align: center;
 }
 
 .conteudoPrincipal-cursos-link {
-	height: 100px;
 	background-color: #FFF;
-	text-align: center;
-	margin: 1%;
-	transition: .3s;
 	box-shadow: 2px 2px 2px #CCC;
+	height: 100px;
+	margin: 1%;
+	text-align: center;
+	transition: .3s;
 	position: relative;
 }
 
 .conteudoPrincipal-cursos-link a {
-	text-decoration: none;
 	color: #000;
-	font-weight: bold;
 	display: block;
-	width: 100%;
+	font-weight: bold;
 	height: 100%;
+	text-decoration: none;
 	position: absolute;
-	top: 0;
 	left: 0;
+	top: 0;
+	width: 100%;
 }
 
 .conteudoPrincipal-cursos-link:hover {
@@ -77,9 +76,9 @@ body {
 .conteudoPrincipal-cursos-link a:before {
 	content: '';
 	display: block;
-	width: 50px;
 	height: 50px;
 	margin: 10px auto;
+	width: 50px;
 }
 
 .conteudoPrincipal-cursos-link:nth-child(even) a:before {
@@ -101,9 +100,9 @@ body {
 }
 
 .rodapePrincipal-navMap-link {
-	text-decoration: none;
 	color: #FFF;
 	margin-top: 10px;
+	text-decoration: none;
 }
 
 .rodapePrincipal-navMap-link {
@@ -111,12 +110,12 @@ body {
 }
 
 .navmap-list-title {
-	font-weight: 700;
 	font-size: 1.3em;
+	font-weight: 700;
 	margin: .9em 0;
+	padding-bottom: .2em;
 	padding-left: .3em;
 	padding-top: .2em;
-	padding-bottom: .2em;
 }
 
 .navmap-list-title + .rodapePrincipal-navMap-link {
@@ -129,34 +128,34 @@ body {
 .navmap-list-title-backend { color: #25D285; border-left: 4px solid #25D285; }
 
 .rodapePrincipal-patrocinadores {
-	margin-top: 30px;
 	background: #F2F5F7;
-	padding: 20px 0;
+	margin-top: 30px;
+	padding: 10px 0;
 }
 
 .rodapePrincipal-contatoForm {
-	margin-top: 20px;
+	margin-top: 10px;
 	text-align: center;
 }
 
 .rodapePrincipal-contatoForm label[for=email-contato] {
-	font-weight: bold;
-	font-size: 14px;
 	color: #000;
-	margin-bottom: 5px;
 	display: block;
+	font-size: 14px;
+	font-weight: bold;
+	margin-bottom: 5px;
 }
 
 .rodapePrincipal-contatoForm-emailInput {
-	border-top-left-radius: 5px;
 	border-bottom-left-radius: 5px;
+	border-top-left-radius: 5px;
 	padding: 10px;
 }
 
 .rodapePrincipal-contatoForm-submit {
-	border-top-right-radius: 5px;
-	border-bottom-right-radius: 5px;
 	background-color: #4DBA7A;
+	border-bottom-right-radius: 5px;
+	border-top-right-radius: 5px;
 	color: #FFF;
 	cursor: pointer;
 	
@@ -164,10 +163,10 @@ body {
 
 .rodapePrincipal-contatoForm-submit,
 .rodapePrincipal-contatoForm-emailInput {
-	outline: 0;
 	border: 1px solid #4DBA7A;
 	box-sizing: border-box;
 	font-size: 16px;
+	outline: 0;
 }
 
 .videoSobre {
@@ -195,13 +194,13 @@ body {
 }
 
 .videoSobre-button {
-	border-radius: 8px;
 	background-color: #ec6e5a;
-	display: block;
-	color: #FFF;
 	border: none;
-	height: 50px;
+	border-radius: 8px;
+	color: #FFF;
+	display: block;
 	font-size: .8em;
+	height: 50px;
 	outline: none;
 }
 
@@ -220,13 +219,13 @@ body {
 	}
 
 	.cabecalhoPrincipal-nav-link {
-		border-radius: 5px;
 		border: 1px solid #9799A6;
+		border-radius: 5px;
 	}
 
 	.cabecalhoPrincipal-nav-link:hover {
-		color: #FFF;
 		background-color: #9799A6;
+		color: #FFF;
 	}
 
 	.cabecalhoPrincipal-titulo {
@@ -238,8 +237,8 @@ body {
 	}
 
 	.cabecalhoPrincipal-nav-link {
-		width: auto;
 		margin: 0 0 0 10px;
+		width: auto;
 	}
 
 	.rodapePrincipal-contatoForm {
