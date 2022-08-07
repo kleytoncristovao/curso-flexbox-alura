@@ -1,12 +1,12 @@
-<h1>Layouts Responsivos trabalhando com layouts mobile</h1>
+<h1>Flexbox - posicione elementos na tela</h1>
 > Status do Projeto: Concluído :heavy_check_mark:
 
 ## imagens do projeto
 
 <div>
-  <img src="https://user-images.githubusercontent.com/90114049/183272329-1c416fd9-b9ad-4ec1-a8a1-cd20c9cc1f81.png" height= "350" alt="imagem de demostração do projeto para dispositivo Mobile"  />
-    <img src="https://user-images.githubusercontent.com/90114049/183272332-72fe634b-2b10-438a-b6a5-0b83bbeff00a.png"  height= "350" alt="imagem 2 de demostração do projeto para tablet"  />
-    <img src="https://user-images.githubusercontent.com/90114049/183272325-5435fbb7-4b79-4555-93d3-870ba093c1da.png"  height= "350" alt="imagem 3 de demostração do projeto para desktop"  />    
+  <img src="https://user-images.githubusercontent.com/90114049/183274886-12a0134a-ffa2-45e8-a0fb-f82615fd0f60.png" width= "350" alt="imagem de demostração do projeto para dispositivo Mobile"  />
+    <img src="https://user-images.githubusercontent.com/90114049/183274899-7ea8f200-fe74-4521-9747-afee0174af0a.png"  width= "350" alt="imagem 2 de demostração do projeto para tablet"  />
+    <img src="https://user-images.githubusercontent.com/90114049/183274921-8d112b51-eef9-483d-80da-f1fe96ba9012.png"  width= "350" alt="imagem 3 de demostração do projeto para desktop"  />    
 </div>
 
 ## Tecnologias usadas
@@ -32,12 +32,12 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Este projeto foi desenvolvido com o curso de Layouts Responsivos trabalhando com layouts mobile e com ele consegui aprender e reforçar conteúdos de responsividade e de acessibilidade, montando com a estrutura BEM e com arquitetura CSS. 
+  Este projeto foi desenvolvido com o curso de Flexbox - posicione elementos na tela para ser montado um site do alurinha com alguns cursos, vídeo e lista de cursos com um rodapé com alguns informações
 </p>
 
 ## Deploy da Aplicação :dash:
 
-> Link do deploy da aplicação: https://layouts-responsivos-alura-kleytoncristovao.vercel.app/
+> Link do deploy da aplicação: https://curso-flexbox-alura-kleytoncristovao.vercel.app/
 
 
 ## Como rodar a aplicação :arrow_forward:
@@ -45,12 +45,12 @@
 No terminal, clone o projeto: 
 
 ```
-git clone https://github.com/kleytoncristovao/Layouts-Responsivos-Alura.git
+git clone https://github.com/kleytoncristovao/curso-flexbox-alura.git
 ```
 
 ## Casos de Uso
 
-Pode ser usado por uma empresa para a divulgação do seu produto ou de serviços para a venda com um site para ser acessado de qualquer dispositivo.
+Pode ser usado por uma empresa para a divulgação dos seus cursos para a venda com um site para ser acessado de qualquer dispositivo.
 
 
 ## Desenvolvedores/Contribuintes :octocat:
@@ -58,4 +58,4 @@ Pode ser usado por uma empresa para a divulgação do seu produto ou de serviço
 [<img src="https://github.com/kleytoncristovao.png" width=115><br><sub>Kleyton Cristovão</sub>](https://github.com/kleytoncristovao) 
 
 
-<p align="center"> Copyright :copyright: 2022 - Layouts Responsivos trabalhando com layouts mobile</p>
+<p align="center"> Copyright :copyright: 2022 - Flexbox - posicione elementos na tela</p>
